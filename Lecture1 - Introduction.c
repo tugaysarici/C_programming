@@ -24,5 +24,16 @@ int main(void){
 // if durumalarında 0 falsedur. 0 olmayanlar truedur.
 // > < >= <= != ==
 // Tüm işlemler soldan sağa doğru yapılır. Sadece = yani atama işlemi sağdan sola gerçekleşir.
-// 2.6'daki keywordsleri yaz.
-// 
+
+/*
+%c char için printf/scanf fonksiyonlarında kullanılır.
+%d int için printf/scanf fonksiyonlarında kullanılır.
+%f double için printf fonksiyonunda kullanılır.
+%lf double için printf fonksiyonunda kullanılır.
+*/
+
+/*
+Keywords: auto, break, case, char, const, continue, default, do, double, else, enum, extern, fkoat, for, goto, if, int,
+long, register, return, short, signed, sizeof, static, struct, switch, typedef, union, unsigned, void, volatile, while.
+*/
+
