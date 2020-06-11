@@ -1,1 +1,1 @@
-# C_programming
+# C Programming Lecture Notes
